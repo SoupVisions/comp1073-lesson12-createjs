@@ -1,0 +1,24 @@
+{
+  "name": "tfoss-comp-1073-Lesson11",
+  "homepage": "https://github.com/SoupVisions/tfoss-comp-1073-lesson11",
+  "authors": [
+    "Theodore Foss <fritzfoss@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "Scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.2",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.5.0"
+  }
+}
